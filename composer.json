@@ -6,7 +6,7 @@
        "zendframework/zendframework": ">=2.0"
    },
    "participants": [
-       {
+       {           
            "name": "Aginaldo Viturino da Silva", 
            "email": "agi.naldo@hotmail.com", 
            "description": "Trabalho com PHP e JavaScript desde 2015, tenho experiencia em TypeScript, tenho uma boa experiencia com os framework ZF2, Laravel, Ionic 1,2,3, Angular 1,2,4, Doctrine 2, Eloquent, Joomla, WordPress, tenho familiaridade com Scrum, Kanban, Domain Drive Design (DDD) metodologias/processo de trabalho"           
@@ -15,6 +15,11 @@
            "name": "Eduardo Ramos de Freitas", 
            "email": "eduardorfreitas93@gmail.com", 
            "description": "Trabalho com php e JS desde 2013, tenho uma boa experiência com os framework Zend2, Symfony2, AngularJS 1/2/4, Ionic 1/2/3, tenho familiaridade com Kanban metodologias/processo de trabalho"
+       },
+       {
+           "name": "Deusmar Gonçalves Assis Júnior", 
+           "email": "deusmar.junior@hotmail.com", 
+           "description": "Trabalho com php desde 2011/5.3, tenho uma boa experiencia com o framework Laravel desde a versão 5 e estou aprendendo VueJS. Minhas skills adquiridas nos últimos anos: PHP 7, Laravel, MySQL, MSSQL Wordpress, HTML 5, CSS 3, Bootstrap, Javascript,  jQuery, REST, Web Scraping. Tenho experiência com metodologia SCRUM. CV -> https://visualcv.com/deusmar"
        }
    ]
 }
