@@ -20,6 +20,11 @@
            "name": "Deusmar Gonçalves Assis Júnior", 
            "email": "deusmar.junior@hotmail.com", 
            "description": "Trabalho com php desde 2011/5.3, tenho uma boa experiencia com o framework Laravel desde a versão 5 e estou aprendendo VueJS. Minhas skills adquiridas nos últimos anos: PHP 7, Laravel, MySQL, MSSQL Wordpress, HTML 5, CSS 3, Bootstrap, Javascript,  jQuery, REST, Web Scraping. Tenho experiência com metodologia SCRUM. CV -> https://visualcv.com/deusmar"
+       },
+       {
+           "name": "Roberto Oliveira Martins", 
+           "email": "rob-mg@hotmail.com", 
+           "description": "Trabalho com php e JS desde 2013, tenho uma boa experiencia com os framework Zend 2, Yii2 e Angular2. Atualmente trabalho usando a metodologia SCRUM, porem ja trabalhei utilizando o Kanban"
        }
    ]
 }
