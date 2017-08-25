@@ -7,6 +7,11 @@
    },
    "participants": [
        {
+           "name": "Aginaldo Viturino da Silva", 
+           "email": "agi.naldo@hotmail.com", 
+           "description": "Trabalho com PHP e JavaScript desde 2015, tenho experiencia em TypeScript, tenho uma boa experiencia com os framework ZF2, Laravel, Ionic 1,2,3, Angular 1,2,4, Doctrine 2, Eloquent, Joomla, WordPress, tenho familiaridade com Scrum, Kanban, Domain Drive Design (DDD) metodologias/processo de trabalho"           
+       },
+       {
            "name": "Eduardo Ramos de Freitas", 
            "email": "eduardorfreitas93@gmail.com", 
            "description": "Trabalho com php e JS desde 2013, tenho uma boa experiência com os framework Zend2, Symfony2, AngularJS 1/2/4, Ionic 1/2/3, tenho familiaridade com Kanban metodologias/processo de trabalho"
