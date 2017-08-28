@@ -35,6 +35,11 @@
            "name": "Thiago Bueno Fiorenza",
            "email": "thiagobfiorenza@gmail.com",
            "description": "Sou um aficionado por Desenvolvimento Web. Trabalhando na área de Programação Backend e também Frontend desde 2007, possuo vasto conhecimento em PHP (mais precisamente com os frameworks Zend 1 e 2 e CakePHP) além de grande experiência com HTML, CSS e JavaScript, pelos quais tenho muita afeição. Já realizei ótimos trabalhos tanto no desenvolvimento de sites e portais como na implementação e manutenção de sistemas educacionais e governamentais. Possuo conhecimento ainda com Oracle/MySQL, Git/Svn e metodologias ágeis (Scrum). Mais detalhes em: https://www.linkedin.com/in/thiagobfiorenza/"
+       },
+       {
+           "name": "Marcelo Fernandes Rodovalho",
+           "email": "marcelo2208@gmail.com",
+           "description": "Trabalho com php desde 2008, tenho uma boa experiencia com os frameworks ZF2, Symfony2/3, Laravel, CakePHP, Angular. Tenho familiaridade com as metodologias de trabalho Scrum, Kanban, XP. Segue meu currículo completo e portfolio: https://celorodovalho.github.io"
        }
    ]
 }
