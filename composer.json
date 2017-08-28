@@ -25,6 +25,11 @@
            "name": "Roberto Oliveira Martins", 
            "email": "rob-mg@hotmail.com", 
            "description": "Trabalho com php e JS desde 2013, tenho uma boa experiencia com os framework Zend 2, Yii2 e Angular2. Atualmente trabalho usando a metodologia SCRUM, porem ja trabalhei utilizando o Kanban"
+       },
+       {
+           "name": "Matheus Lúcio Carvalho da Costa",
+           "email": "matheusluciox@gmail.com@email.com",
+           "description": "Trabalho com php desde 2013, tenho uma boa experiência com os framework's ZF2, ZF1, Angular, Ionic, jQuery entre outros. Tenho familiaridade com as metodologias de trabalho SCRUM, RUP e Extreme Go Horse (XGH)."
        }
    ]
 }
