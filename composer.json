@@ -40,6 +40,11 @@
            "name": "Marcelo Fernandes Rodovalho",
            "email": "marcelo2208@gmail.com",
            "description": "Trabalho com php desde 2008, tenho uma boa experiencia com os frameworks ZF2, Symfony2/3, Laravel, CakePHP, Angular. Tenho familiaridade com as metodologias de trabalho Scrum, Kanban, XP. Segue meu currículo completo e portfolio: https://celorodovalho.github.io"
+       },
+       {
+           "name": "Victor Eduardo Barreto", 
+           "email": "victor.eduardo.barreto@gmail.com", 
+           "description": "Trabalho com php desde 2014, tenho uma boa experiencia com os framework ZF1, Slim2, tenho familiaridade com AngularJS, composer, git, docker e gulp. Já trabalhei com RUP e atualmente com scrum"
        }
    ]
 }
