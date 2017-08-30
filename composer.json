@@ -45,6 +45,11 @@
            "name": "Victor Eduardo Barreto", 
            "email": "victor.eduardo.barreto@gmail.com", 
            "description": "Trabalho com php desde 2014, tenho uma boa experiencia com os framework ZF1, Slim2, tenho familiaridade com AngularJS, composer, git, docker e gulp. Já trabalhei com RUP e atualmente com scrum"
+       },
+       {
+           "name": "Bruno Kanniggia Alves do Rosário",
+           "email": "bruno.krosario@gmail.com",
+           "description": ""
        }
    ]
 }
